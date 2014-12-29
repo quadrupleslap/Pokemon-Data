@@ -1,0 +1,1 @@
+{"id":9,"ineffective":[{"name":"fire","id":10},{"name":"water","id":11},{"name":"electric","id":13},{"name":"steel","id":9}],"name":"Steel","no_effect":[],"resistance":[],"super_effective":[{"name":"ice","id":15},{"name":"rock","id":6},{"name":"fairy","id":18}],"weakness":[{"name":"fire","id":10},{"name":"fighting","id":2},{"name":"ground","id":5}]}

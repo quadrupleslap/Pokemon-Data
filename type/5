@@ -1,0 +1,1 @@
+{"id":5,"ineffective":[{"name":"ground","id":5},{"name":"bug","id":7}],"name":"Ground","no_effect":[{"name":"flying","id":3}],"resistance":[],"super_effective":[{"name":"fire","id":10},{"name":"electric","id":13},{"name":"poison","id":4},{"name":"rock","id":6},{"name":"steel","id":9}],"weakness":[{"name":"water","id":11},{"name":"grass","id":12},{"name":"ice","id":15}]}

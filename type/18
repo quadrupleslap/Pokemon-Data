@@ -1,0 +1,1 @@
+{"id":18,"ineffective":[{"name":"fire","id":10},{"name":"poison","id":4},{"name":"steel","id":9}],"name":"Fairy","no_effect":[{"name":"dragon","id":16}],"resistance":[],"super_effective":[{"name":"fighting","id":2},{"name":"dragon","id":16},{"name":"dark","id":17}],"weakness":[{"name":"poison","id":4},{"name":"steel","id":9}]}

@@ -1,0 +1,1 @@
+{"id":11,"ineffective":[{"name":"water","id":11},{"name":"grass","id":12},{"name":"dragon","id":16}],"name":"Water","no_effect":[],"resistance":[],"super_effective":[{"name":"fire","id":10},{"name":"ground","id":5},{"name":"rock","id":6}],"weakness":[{"name":"electric","id":13},{"name":"grass","id":12}]}
